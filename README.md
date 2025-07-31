@@ -2,7 +2,6 @@
 
 A sleek, browser-based code editor built with HTML, CSS, and JavaScript — perfect for writing, previewing, and experimenting with HTML, CSS, and JS code in real time.
 
-![Preview](https://user-images.githubusercontent.com/anjali2128/code-editor-preview.png) <!-- Replace with actual image link if available -->
 
 ---
 
@@ -19,7 +18,7 @@ A sleek, browser-based code editor built with HTML, CSS, and JavaScript — perf
 ## 📸 Demo
 
 Try it live:  
-👉 [Code Editor Demo](https://anjali2128.github.io/Code-Editor/) <!-- Replace with actual link -->
+👉 [Code Editor Demo](https://jovial-parfait-a5b3dc.netlify.app/)
 
 ---
 
@@ -38,5 +37,15 @@ Try it live:
 
 ---
 
-## 📂 Project Structure
+## 🧑‍💻 Author
+
+**Anjali Mishra**  
+Frontend Developer | React Enthusiast | AI Explorer  
+🔗 [Portfolio](https://anjali2128.github.io/Portfolio)  
+📧 [anjali.mishra3537@gmail.com](mailto:anjali.mishra3537@gmail.com)
+
+---
+
+
+> ⭐️ Star this repo if you found it useful or want to come back to it later!
 
